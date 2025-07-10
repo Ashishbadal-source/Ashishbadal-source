@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ashish Badal
 
-🚀 Tech enthusiast | 🌐 Web Developer | 📊 Data Explorer | 📚 Stats  
+🚀 Tech enthusiast | 🌐 Web Developer | 📊 Data Explorer | 🧮 Statistical Storyteller  
 🎯 Exploring the world of programming through real-world data and creative projects.  
 👨‍💻 Participant in 3+ Hackathons | Python + JS Coder | Math + Stats Geek  
 
