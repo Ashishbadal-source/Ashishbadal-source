@@ -27,14 +27,14 @@
 
 🔹 **Data Visualization Projects**  
 📁 Python + Pandas + Seaborn + Matplotlib | Real datasets  
-📊 [Coming Soon: Visualize IPL/Netflix/COVID datasets]
+📊 Worked on: IPL Datasheet and Titanic Datesheet 
 
 🔹 **Frontend Mini Projects**  
 🌐 HTML/CSS/JS-based web utilities and UI components  
-[Add links when deployed or live preview ready]
+📷 Handle frontend in 2 hackathons
 
 🔹 **Hackathon Projects**  
-⚡ Participated in 2 Hackathons — building fast, functional, creative solutions  
+⚡ Participated in 3 Hackathons — building fast, functional, creative solutions  
 [Coming Soon: Add demo repos/screenshots]
 
 ---
