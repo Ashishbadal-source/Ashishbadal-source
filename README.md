@@ -1,5 +1,6 @@
 # # 👋 Hi, I'm Ashish Badal
 
+😎 Building Future at National Institute of Technology , Kurukshetra
 🚀 Tech Enthusiast | 🌐 Web Developer | 📊 Data Explorer | 🧠 Statistical Storyteller  
 🎯 Exploring the world of programming through real-world data and creative projects.  
 👨‍💻 Participant in 2+ Hackathons | Python + JS Coder | Math & Logic Geek  
