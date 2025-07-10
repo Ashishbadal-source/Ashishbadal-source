@@ -41,7 +41,7 @@
 
 ## 🧠 My Projects
 
-- 💡 **Data Viz Dashboard**: Coming Soon — Matplotlib + Seaborn + Pandas  
+- 💡 **Data Viz Dashboard**: — Matplotlib + Seaborn + Pandas  
 - 🌐 **Frontend UI Components**: Lightweight vanilla JS and CSS components  
 - 🧪 **Notebook-based Data Analysis**: Exploratory Data Analysis in Jupyter  
 - 💻 **Hackathon Solutions**: Excaliber | Hackshetra | SIH Prototypes
@@ -63,8 +63,8 @@
 
 ## 🔗 Let's Connect
 
-📫 Email: **[Check GitHub Profile]**  
-🔗 LinkedIn: **[Check GitHub Bio]**  
+📫 Email: **[idh4816@gmail.com]**  
+🔗 LinkedIn: **[www.linkedin.com/in/ashish-badal-309746281]**  
 🌐 Portfolio: *(Coming Soon — Ping me for a template!)*
 
 ---
