@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="https://github.com/Ashishbadal-source/Ashishbadal-source/blob/main/banner.png?raw=true" alt="Banner" width="100%" />
+
 
 <h1 align="center">Hi there! 👋 I'm Ashish Badal</h1>
 
