@@ -11,6 +11,7 @@
   <a href="https://github.com/Ashishbadal-source"><img src="https://img.shields.io/badge/GitHub-Ashishbadal--source-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Ashish_Badal-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/ashish_badal18"><img src="https://img.shields.io/badge/X-Ashish_Badal-black?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
 ---
@@ -66,6 +67,7 @@
 
 📫 Email: **[idh4816@gmail.com]**  
 🔗 LinkedIn: **[www.linkedin.com/in/ashish-badal-309746281]**  
+🐦 X: https://x.com/ashish_badal18
 🌐 Portfolio: *(Coming Soon — Ping me for a template!)*
 
 ---
