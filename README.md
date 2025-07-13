@@ -67,7 +67,8 @@
 
 📫 Email: **[idh4816@gmail.com]**  
 🔗 LinkedIn: **[www.linkedin.com/in/ashish-badal-309746281]**  
-🐦 X: https://x.com/ashish_badal18
+🐦 X: https://x.com/ashish_badal18    
+
 🌐 Portfolio: *(Coming Soon — Ping me for a template!)*
 
 ---
