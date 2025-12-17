@@ -21,7 +21,7 @@
 - 🎓 2nd year B.Tech Student  
 - 👨‍💻 Love building web interfaces and exploring data through Python  
 - 🧠 Passionate about Math, Logic & Statistics
-- 👨‍💻 Intern at Shabhik Technology
+- 👨‍💻 Ex Summer Intern at Shabhik Technology
 - 🛠️ Always learning and pushing creative ideas  
 - 🏆 Participated in Hackathons: `Excaliber`, `Hackshetra`, `SIH`
 
