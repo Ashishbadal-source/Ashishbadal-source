@@ -19,8 +19,8 @@
   <a href="https://x.com/ashish_badal18">
     <img src="https://img.shields.io/badge/X-Ashish_Badal-black?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://www.kaggle.com/ashishbadal">
-    <img src="https://img.shields.io/badge/Kaggle-Ashish_Badal-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  <a href="https://www.kaggle.com/ashish_badal18">
+    <img src="https://img.shields.io/badge/Kaggle-ashish__badal18-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
 </p>
 
@@ -28,10 +28,10 @@
 
 ## 🌟 About Me
 
-- 🎓 2nd year B.Tech Student
-- 👨‍💻 Ex Summer Intern at Shabhik Technology
+- 🎓 2nd year B.Tech Student  
 - 👨‍💻 Love building web interfaces and exploring data through Python  
-- 🧠 Passionate about Math, Logic & Statistics    
+- 🧠 Passionate about Math, Logic & Statistics  
+- 👨‍💻 Ex Summer Intern at Shabhik Technology  
 - 🛠️ Always learning and pushing creative ideas  
 - 🏆 Participated in Hackathons: `Excaliber`, `Hackshetra`, `SIH`
 
@@ -77,8 +77,9 @@
 
 📫 Email: **idh4816@gmail.com**  
 🔗 LinkedIn: **https://www.linkedin.com/in/ashish-badal-309746281**  
-📊 Kaggle: **https://www.kaggle.com/ashishbadal18**  
+📊 Kaggle: **https://www.kaggle.com/ashish_badal18**  
 🐦 X: **https://x.com/ashish_badal18**  
+
 
 ---
 
