@@ -8,7 +8,7 @@
   <a href="https://x.com/ashish_badal18"><img src="https://img.shields.io/badge/X-Ashish_Badal-black?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://www.kaggle.com/ashish_badal18"><img src="https://img.shields.io/badge/Kaggle-ashish__badal18-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
   <a href="https://www.codechef.com/users/ashish_badal18"><img src="https://img.shields.io/badge/CodeChef-ashish_badal18-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-  <a href="https://codeforces.com/profile/ashish_badal18"><img src="https://img.shields.io/badge/Codeforces-ashish_badal18-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/badal_ashish"><img src="https://img.shields.io/badge/Codeforces-ashish_badal18-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
 </p>
 
 ---
