@@ -7,7 +7,6 @@
   <a href="https://www.linkedin.com/in/ashish-badal-309746281"><img src="https://img.shields.io/badge/LinkedIn-Ashish_Badal-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://x.com/ashish_badal18"><img src="https://img.shields.io/badge/X-Ashish_Badal-black?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://www.kaggle.com/ashish_badal18"><img src="https://img.shields.io/badge/Kaggle-Ashish_Badal-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-  <a href="https://www.codechef.com/users/ashish_badal18"><img src="https://img.shields.io/badge/CodeChef-Ashish_Badal-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
   <a href="https://codeforces.com/profile/badal_ashish"><img src="https://img.shields.io/badge/Codeforces-Ashish_Badal-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
 </p>
 
@@ -72,8 +71,7 @@
 
 📫 Email: **idh4816@gmail.com**  
 🔗 LinkedIn: [ashish-badal](https://www.linkedin.com/in/ashish-badal-309746281)  
-📊 Kaggle: [ashish_badal18](https://www.kaggle.com/ashish_badal18)  
-🍴 CodeChef: [ashish_badal18](https://www.codechef.com/users/ashish_badal18)  
+📊 Kaggle: [ashish_badal18](https://www.kaggle.com/ashish_badal18)    
 👾 Codeforces: [ashish_badal18](https://codeforces.com/profile/badal_ashish)  
 🐦 X: [ashish_badal18](https://x.com/ashish_badal18)  
 
